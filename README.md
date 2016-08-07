@@ -1,2 +1,3 @@
-# priceeth.github.io
-Price of ETH, ETC, XBT
+# Price of ETH, ETC, XBT
+
+A dashboard to track the price of ETH, ETC, XBT.
