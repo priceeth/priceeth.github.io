@@ -39553,6 +39553,7 @@ var App = _react2.default.createClass({
 
       var options = {
         responsive: true,
+        maintainAspectRatio: false,
 
         tooltips: {
           mode: 'label',
@@ -39672,15 +39673,9 @@ var App = _react2.default.createClass({
       _react2.default.createElement(
         'h1',
         null,
-        'Price of ',
-        title
+        'Price of ETC, XBT, ...'
       ),
       prices,
-      _react2.default.createElement(
-        'h2',
-        null,
-        'History'
-      ),
       graph
     );
   }
